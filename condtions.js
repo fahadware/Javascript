@@ -33,7 +33,7 @@ if (light == "red") {
 }
 
 //ternary operator 
-//ternary operator is a short way to write if else statement
+//ternary operator is a short way to write if else statement used in suitable cases
 let myage = 18;
 let isAdult = myage >= 18 ? "You are an adult" : "You are not an adult";
 console.log(isAdult);
