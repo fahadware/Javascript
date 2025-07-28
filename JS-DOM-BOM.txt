@@ -1,0 +1,23 @@
+
+JavaScript
+├── DOM (Document Object Model)
+│   ├── document
+│   ├── document.getElementById()
+│   ├── document.querySelector()
+│   ├── document.createElement()
+│   └── etc.
+│
+└── BOM (Browser Object Model)
+    ├── window
+    │   ├── alert()
+    │   ├── setTimeout()
+    │   └── setInterval()
+    ├── navigator
+    │   ├── navigator.userAgent
+    │   └── navigator.language
+    ├── location
+    │   ├── location.href
+    │   └── location.reload()
+    └── screen
+        ├── screen.width
+        └── screen.height
