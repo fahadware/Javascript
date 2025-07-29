@@ -20,4 +20,4 @@ JavaScript
     │   └── location.reload()
     └── screen
         ├── screen.width
-        └── screen.height
+        └── screen.hight
