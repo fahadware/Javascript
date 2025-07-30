@@ -21,14 +21,13 @@ class Employee {
         return this.#salary;
     }
     set empSalary(salary) {
-        this.#salary = salary;
+       htis.#salary=salary
     }
-
     get empAge() {
         return this.age;
     }
     set empAge(age) {
-        this.age = age;
+        this.age=age;
     }
 
 }
@@ -37,4 +36,5 @@ let emp = new Employee("Fahad", 100000, "20");
 console.log(emp.empName);
 console.log(emp.empSalary);
 console.log(emp.empAge);
+
 
